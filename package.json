@@ -1,0 +1,24 @@
+{
+  "name": "juice",
+  "version": "1.0.0",
+  "description": "Juice",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demoV/juice.git"
+  },
+  "author": "lalit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demoV/juice/issues"
+  },
+  "homepage": "https://github.com/demoV/juice#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "lodash": "^4.3.0"
+  }
+}
