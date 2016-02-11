@@ -1,0 +1,10 @@
+.graph {
+	position: absolute;
+	top: 10%;
+	left: 5%;
+	background-color: lightblue;
+}
+.btns {
+	position: absolute;
+	top: 0;
+}
